@@ -1,0 +1,18 @@
+[
+    {
+        "id": "20261103175505674131",
+        "amount": 30000.0,
+        "category": "Salary",
+        "description": "November Salary",
+        "transaction_type": "Income",
+        "date": "2026-11-03"
+    },
+    {
+        "id": "20261103175533168594",
+        "amount": 500.0,
+        "category": "food",
+        "description": "lunch",
+        "transaction_type": "Expense",
+        "date": "2026-11-03"
+    }
+]
